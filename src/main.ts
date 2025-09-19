@@ -9,7 +9,7 @@ import {
   Setting,
 } from 'obsidian';
 
-import { DEFAULT_SETTINGS, type MyPluginSettings } from './settings';
+import { DEFAULT_SETTINGS, type MyPluginSettings } from './lib/settings';
 
 // Remember to rename these classes and interfaces!
 
